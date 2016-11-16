@@ -5,5 +5,5 @@ Rails.application.routes.draw do
     end
   end
 
-  post '/login', to "sessions#create"
+  post '/login', to: "sessions#create"
 end
