@@ -1,0 +1,2 @@
+class SpaceFormation < ApplicationRecord
+end
