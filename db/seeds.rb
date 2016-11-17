@@ -17,3 +17,6 @@ SpaceFormation.create(name: 'Hot Stars',
 SpaceFormation.create(name: 'Orion Nebula',
   description: 'Clouds of dust and gas in the Orion Nebula churn out stars in this tiny section of the huge Orion Nebula. The gas is illuminated and heated by ultraviolet light from four hot, massive stars.',
   image_url: 'http://imgsrc.hubblesite.org/hu/gallery/db/printshop/ps11/formats/ps11_large_thumb.jpg')
+
+
+User.create(first_name: "Mike", last_name: "Dexter", email: "mike@nasa.com", password: "spaceRulez")
